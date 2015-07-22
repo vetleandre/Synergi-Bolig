@@ -1,0 +1,72 @@
+
+*{
+margin: 0px;
+padding: 0px;    
+
+}
+body{
+width: 100%;
+background-color: fffff; 
+
+}
+
+#wrapper{
+    width: 100%;
+    margin: auto; 
+    
+
+}
+
+/* Begynnelse på navigasjonsmenyen */
+header nav ul{
+    width: 100%;
+    position: fixed; 
+    list-style-type: none;
+    padding-right: 20px;
+    background-color: #ffffff; 
+    
+}
+header nav ul li{
+    display: inline;
+}
+/* Slutt på navigasjonsmenyen */
+
+
+/* Start på headerbilde */
+#headerimg{
+    width: 100%;
+    height: 400px;
+    background: url("../img/1920_600.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+#headerimg img{
+    min-width: 20%; 
+   
+}
+
+/* Start på headerbilde */
+
+
+/* Start på infoboxer*/
+.box{
+    width: 100%;
+    height: 60vh;
+}
+#box1{
+
+
+}
+#box2{
+
+
+}
+#box3{
+
+
+}
+
+
+/* Start på infoboxer*/
